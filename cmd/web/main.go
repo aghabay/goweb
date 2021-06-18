@@ -7,7 +7,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/aghabayli/gorepo/pkg/handlers"
+	"github.com/aghabay/goweb/pkg/handlers"
 )
 
 func main() {
